@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="909b7b7d-0241-4e20-bf10-e022677aae93" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hwkbubBaKvwuFam7WzXAFhpNdg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="909b7b7d-0241-4e20-bf10-e022677aae93" name="Default Changelist" comment="" />
+      <created>1600929617709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600929617709</updated>
+      <workItem from="1600929619477" duration="12988000" />
+      <workItem from="1600958235749" duration="10343000" />
+      <workItem from="1601024404097" duration="7094000" />
+      <workItem from="1601226295418" duration="68000" />
+      <workItem from="1601240642940" duration="760000" />
+      <workItem from="1601241487174" duration="2764000" />
+      <workItem from="1601267871358" duration="1808000" />
+      <workItem from="1601275872656" duration="1732000" />
+      <workItem from="1601280264100" duration="1929000" />
+      <workItem from="1601284833644" duration="3000" />
+      <workItem from="1601284847887" duration="6374000" />
+      <workItem from="1601310444986" duration="4525000" />
+      <workItem from="1601322139889" duration="6284000" />
+      <workItem from="1601396830736" duration="10512000" />
+      <workItem from="1601411712465" duration="28000" />
+      <workItem from="1601446033857" duration="1424000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601030301724">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="458" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.798@0.23.1440.798" timestamp="1601030301724" />
+    <state x="385" y="145" width="670" height="676" key="search.everywhere.popup" timestamp="1601405886909">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="385" y="145" width="670" height="676" key="search.everywhere.popup/0.23.1440.798@0.23.1440.798" timestamp="1601405886909" />
+  </component>
+</project>
